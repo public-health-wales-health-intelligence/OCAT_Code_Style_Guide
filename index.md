@@ -1,3 +1,3 @@
-## Welcome to the archived code style guide
+## Welcome to the code style guide
 
-The new version of the guide will be uploaded soon.
+[Link to the guide](https://public-health-wales-health-intelligence.github.io/OCAT_Code_Style_Guide/draft_style_guide.html)
